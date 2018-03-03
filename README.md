@@ -17,7 +17,7 @@ Backs up production postgres database.
 
 ## greenfield-transfer.sh
 
-Transfers all Greenfield server images, data and files to backup server
+Transfers all backed up Greenfield server data, images and files to backup server
 
 
 
